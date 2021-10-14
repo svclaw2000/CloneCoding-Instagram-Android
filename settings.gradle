@@ -1,2 +1,4 @@
 rootProject.name = "Clone Instagram"
 include ':app'
+include ':data'
+include ':domain'
